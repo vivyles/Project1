@@ -1,3 +1,4 @@
 # Project1
-LAMP
+
+![](images/example.png)
 
